@@ -86,7 +86,6 @@
 (require 'cl-lib)
 (require 'org-id)
 (require 'db)
-(require 'company)
 
 ;;;; Declarations
 (defvar org-link-frame-setup)
